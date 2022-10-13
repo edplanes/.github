@@ -1,12 +1,12 @@
-## Hi there 👋
+## EdPlanes - CLoud Native Virtual Airline Managment System
 
-<!--
+## 🙋‍♀️ Hello there!
 
-**Here are some ideas to get you started:**
+Welcome to EdPlanes profile. EdPlanes is virtual airline managment tool which is:
+  1. Clud Native
+  2. Started as batch of work required to end university by author of this project
+  3. Fully open source
 
-🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
